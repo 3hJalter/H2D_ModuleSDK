@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using HoangHH.DesignPattern;
@@ -7,6 +7,15 @@ using UnityEngine;
 
 namespace HoangHH.Manager
 {
+    public enum CanvasType
+    {
+        None = -1,
+        Screen = 0,
+        Popup = 1,
+        Notification = 2,
+        Loading = 3
+    }
+    
     public class UIManager : HSingleton<UIManager>
     {
         #region Handle Panel Type
@@ -15,16 +24,7 @@ namespace HoangHH.Manager
         private const string POPUP_PREFIX = "Popup";
         private const string NOTIF_PREFIX = "Notif";
         private const string LOADING_PREFIX = "Loading";
-
-        private enum CanvasType
-        {
-            None = -1,
-            Screen = 0,
-            Popup = 1,
-            Notification = 2,
-            Loading = 3
-        }
-
+        
         // <summary>
         // Get the type of the canvas, using the prefix of the UI type (converted to string from enum)
         // </summary>
@@ -248,8 +248,9 @@ namespace HoangHH.Manager
 }
 
 /// <summary>
-///     Type of the UI, must start with prefix of the UI type
+///     Type of the UI, must start with prefix of the UI type.
 ///     Ex: Screen -> ScreenMainMenu, Popup -> PopupDailyReward, Notif -> NotifAds, Loading -> LoadingPanel ...
+///     Generated Automatically using SDK, be careful when changing the name. 
 /// </summary>
 public enum UIType
 {
@@ -264,8 +265,10 @@ public enum UIType
 
     // Popup
     PopupDailyReward,
-    PopupSetting
+    PopupSetting,
     // Notification
 
     // Loading
+    
+    SdkPlaceHolder, //Do not rename or re-arrange
 }

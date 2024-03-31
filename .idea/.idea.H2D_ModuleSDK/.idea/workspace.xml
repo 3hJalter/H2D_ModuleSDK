@@ -7,7 +7,42 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="89b9c720-f0d1-4424-a4d5-d89cda932d31" name="Changes" comment="" />
+    <list default="true" id="89b9c720-f0d1-4424-a4d5-d89cda932d31" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Config/Editor/AOTGenerationConfig.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Config/Editor/AOTGenerationConfig.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Config/Editor/ColorPaletteManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Config/Editor/ColorPaletteManager.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/_Config/Screen_Base.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/_Config/Screen_Base.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/_Prefabs/UI/Screen/LoadingUI.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/_Prefabs/UI/Screen/LoadingUI.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/_Prefabs/UI/Screen/ScreenT1.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/_Prefabs/UI/Screen/ScreenT1.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/_Prefabs/UI/Screen/Screen_InGame.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/_Prefabs/UI/Screen/Screen_InGame.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/_Prefabs/UI/Screen/Screen_MainMenu.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/_Prefabs/UI/Screen/Screen_MainMenu.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/_Scripts/Editor/EditorWindow.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/_Scripts/Editor/EditorWindow/UIGenerator.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/_Scripts/Editor/EditorWindow/UIGenerator.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.H2D_ModuleSDK/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.H2D_ModuleSDK/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/DOTweenSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/DOTweenSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Game/_Config/UI.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Game/_Config/UI.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Game/_Prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Game/_Prefab/UI.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Game/_Prefab/UI/Screen.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Game/_Prefab/UI/Screen/LoadingUI.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Game/_Prefab/UI/Screen/LoadingUI.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Game/_Prefab/UI/Screen/Screen_InGame.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Game/_Prefab/UI/Screen/Screen_InGame.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Game/_Prefab/UI/Screen/Screen_MainMenu.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Game/_Prefab/UI/Screen/Screen_MainMenu.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Game/_Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Game/_Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Game/_Scripts/Config/UIConfig.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Game/_Scripts/Config/UIConfig.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Game/_Scripts/Editor/UIGenerator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Game/_Scripts/Editor/HoangSDK.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Game/_Scripts/Editor/UIGenerator.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Game/_Scripts/Editor/HoangSDK.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Game/_Scripts/Manager/UIManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Game/_Scripts/Manager/UIManager.cs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,25 +52,38 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/11d97693183d4a6bb35c29ae7882c66b81b600/11/026305a4/AssetDatabase.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/b99111d83375407884b461ee9b8ac0fe11c800/90/34d97280/EditorIcons.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/c7e3bb3232664ef4be3a8d9615bf0a192cfc00/33/d991a929/OdinMenuTreeDrawingConfig.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/c7e3bb3232664ef4be3a8d9615bf0a192cfc00/75/0588f5d9/OdinMenuItem.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/c7e3bb3232664ef4be3a8d9615bf0a192cfc00/94/c11c6b66/OdinMenuStyle.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/c7e3bb3232664ef4be3a8d9615bf0a192cfc00/d6/923716a0/OdinMenuTree.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Plugins/Sirenix/Demos/Editor Windows/Scripts/Editor/BasicOdinEditorExampleWindow.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_Game/_Scripts/Manager/NonMono/DataManager.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
   <component name="ProjectId" id="2eO8fc0quH7QRKaXuN7RdqgXfIG" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "Attach to Unity Editor.Attach to Unity Editor.executor": "Debug",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "<unknown>",
+    "XThreadsFramesViewSplitterKey": "0.37387386",
+    "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -79,10 +127,10 @@
       </option>
       <method v="2" />
     </configuration>
-    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" ignored-value-for-modified-check="5044">
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
-      <option name="pid" />
+      <option name="pid" value="5044" />
       <option name="projectPathOnTarget" />
       <option name="selectedOptions">
         <list />
@@ -100,6 +148,9 @@
       <updated>1711764368143</updated>
       <workItem from="1711764369906" duration="11340000" />
       <workItem from="1711776423418" duration="88000" />
+      <workItem from="1711776536220" duration="674000" />
+      <workItem from="1711780713070" duration="16505000" />
+      <workItem from="1711899859096" duration="4782000" />
     </task>
     <task id="LOCAL-00001" summary="+ADD&quot; Initialize">
       <option name="closed" value="true" />
@@ -109,7 +160,23 @@
       <option name="project" value="LOCAL" />
       <updated>1711776066987</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="+ADD: Initialize">
+      <option name="closed" value="true" />
+      <created>1711776605116</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1711776605116</updated>
+    </task>
+    <task id="LOCAL-00003" summary="+ADD: Initialize">
+      <option name="closed" value="true" />
+      <created>1711776765958</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1711776765958</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -119,19 +186,48 @@
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="Both" />
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/main" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="+ADD&quot; Initialize" />
-    <option name="LAST_COMMIT_MESSAGE" value="+ADD&quot; Initialize" />
+    <MESSAGE value="+ADD: Initialize" />
+    <option name="LAST_COMMIT_MESSAGE" value="+ADD: Initialize" />
   </component>
 </project>
